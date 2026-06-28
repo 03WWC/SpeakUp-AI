@@ -9,6 +9,7 @@ dist/
 build/
 .eggs/
 *.egg
+offergpt.db
 backend/offergpt.db
 
 # Node
@@ -34,3 +35,13 @@ out/
 .DS_Store
 Thumbs.db
 backend/.env
+
+# 个人求职资料
+BOSS打招呼话术.md
+完整简历-优化版.md
+简历-SpeakUp AI项目经历.md
+面试准备指南.md
+面试问题清单.md
+面试深度准备-基于真实面经.md
+技术栈详解面试准备.md
+面试求职资料包.md
